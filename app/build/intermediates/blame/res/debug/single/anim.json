@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_pre_out.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\anim\\anim_pre_out.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_in.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\anim\\anim_in.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_out.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\anim\\anim_out.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_pre_in.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\anim\\anim_pre_in.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\anim\\shake.xml"
+    }
+]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/blue_bkg" >
+
+        <ImageView
+            android:id="@+id/iv_home_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:src="@drawable/heima" />
+
+        <TextView
+            android:id="@+id/tv_home_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dip"
+            android:layout_marginTop="20dip"
+            android:text="黑马程序员安全卫士"
+            android:textSize="20sp" />
+        <!-- 改为自定义的view -->
+
+        <com.itheima.mobilesafe.ui.FocusedTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_home_title"
+            android:layout_marginLeft="35dip"
+            android:layout_marginTop="25dip"
+            android:layout_toRightOf="@id/iv_home_logo"
+            android:ellipsize="marquee"
+            android:focusableInTouchMode="true"
+            android:singleLine="true"
+            android:text="黑马手机安全卫士,时刻保护您的移动安全,版权所有,盗版必究, http://www.itheima.com"
+            android:textColor="#bbff0000"
+            android:textSize="15sp" />
+        
+        <ImageButton 
+            android:onClick="enterSettingActivity"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/setting"
+            />
+    </RelativeLayout>
+
+    <GridView
+        android:numColumns="2"
+        android:id="@+id/gv_home_item"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </GridView>
+
+</LinearLayout>

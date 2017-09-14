@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_traffic_manager.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_traffic_manager.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_enter_pwd.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_enter_pwd.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_process_manager.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_process_manager.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_system_opts.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_system_opts.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_locked.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\item_locked.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_blacknumber.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_add_blacknumber.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_applock.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_applock.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\process_widget.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\process_widget.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\item_unlock.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_process_item.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\item_process_item.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_clean_cache.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\fragment_clean_cache.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lost_find.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_lost_find.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_setup3.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callsms_safe.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_callsms_safe.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_common_tools.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_common_tools.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_setup_pwd.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\dialog_setup_pwd.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_address.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\toast_address.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_enter_pwd.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\dialog_enter_pwd.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_appinfo.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\item_appinfo.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_setup2.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_number_query.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_number_query.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anti_virus.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_anti_virus.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cache_info.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\item_cache_info.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_home.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\item_home.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popup_appinfo.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\item_popup_appinfo.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_contact.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_select_contact.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_call_smssafe.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\item_call_smssafe.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_setup1.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_clean_sd.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\fragment_clean_sd.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_setup4.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_appmanger.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\layout\\activity_appmanger.xml"
+    }
+]

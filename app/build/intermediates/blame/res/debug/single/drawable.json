@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_setting_last.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\item_setting_last.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dg_cancel_selector.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\dg_cancel_selector.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_selector.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\function_greenbutton_selector.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_normal.png",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\function_greenbutton_normal.png"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\security_progress_bg.png",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\security_progress_bg.png"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_setting_middle.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\item_setting_middle.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_test.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\shape_test.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_button_lock_default.png",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\list_button_lock_default.png"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_pressed.png",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\function_greenbutton_pressed.png"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_setting_first.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\item_setting_first.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dg_confirm_selector.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\dg_confirm_selector.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\security_progress.png",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\security_progress.png"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_selector.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\delete_selector.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_button_unlock_default.png",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\list_button_unlock_default.png"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_button_lock_pressed.png",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\list_button_lock_pressed.png"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_default.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\edittext_default.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unlock_selector.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\unlock_selector.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_button_unlock_pressed.png",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\list_button_unlock_pressed.png"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_focused.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\edittext_focused.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_selector.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\add_selector.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_selector.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\edittext_selector.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lock_selector.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\lock_selector.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\drawable\\progress_horizontal.xml"
+    }
+]

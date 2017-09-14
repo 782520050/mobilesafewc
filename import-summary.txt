@@ -1,0 +1,345 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* README.txt
+* conf\
+* conf\VisualSVN-SvnAuthz.ini
+* conf\VisualSVN-WinAuthz.ini
+* conf\VisualSVN.lck
+* conf\authz
+* conf\hooks-env.tmpl
+* conf\passwd
+* conf\svnserve.conf
+* db\
+* db\current
+* db\format
+* db\fs-type
+* db\fsfs.conf
+* db\min-unpacked-rev
+* db\rep-cache.db
+* db\revprops\
+* db\revprops\0\
+* db\revprops\0\0
+* db\revprops\0\1
+* db\revprops\0\10
+* db\revprops\0\100
+* db\revprops\0\101
+* db\revprops\0\102
+* db\revprops\0\103
+* db\revprops\0\104
+* db\revprops\0\105
+* db\revprops\0\106
+* db\revprops\0\107
+* db\revprops\0\108
+* db\revprops\0\109
+* db\revprops\0\11
+* db\revprops\0\110
+* db\revprops\0\111
+* db\revprops\0\112
+* db\revprops\0\113
+* db\revprops\0\114
+* db\revprops\0\115
+* db\revprops\0\116
+* db\revprops\0\117
+* db\revprops\0\118
+* db\revprops\0\119
+* db\revprops\0\12
+* db\revprops\0\120
+* db\revprops\0\121
+* db\revprops\0\122
+* db\revprops\0\123
+* db\revprops\0\124
+* db\revprops\0\13
+* db\revprops\0\14
+* db\revprops\0\15
+* db\revprops\0\16
+* db\revprops\0\17
+* db\revprops\0\18
+* db\revprops\0\19
+* db\revprops\0\2
+* db\revprops\0\20
+* db\revprops\0\21
+* db\revprops\0\22
+* db\revprops\0\23
+* db\revprops\0\24
+* db\revprops\0\25
+* db\revprops\0\26
+* db\revprops\0\27
+* db\revprops\0\28
+* db\revprops\0\29
+* db\revprops\0\3
+* db\revprops\0\30
+* db\revprops\0\31
+* db\revprops\0\32
+* db\revprops\0\33
+* db\revprops\0\34
+* db\revprops\0\35
+* db\revprops\0\36
+* db\revprops\0\37
+* db\revprops\0\38
+* db\revprops\0\39
+* db\revprops\0\4
+* db\revprops\0\40
+* db\revprops\0\41
+* db\revprops\0\42
+* db\revprops\0\43
+* db\revprops\0\44
+* db\revprops\0\45
+* db\revprops\0\46
+* db\revprops\0\47
+* db\revprops\0\48
+* db\revprops\0\49
+* db\revprops\0\5
+* db\revprops\0\50
+* db\revprops\0\51
+* db\revprops\0\52
+* db\revprops\0\53
+* db\revprops\0\54
+* db\revprops\0\55
+* db\revprops\0\56
+* db\revprops\0\57
+* db\revprops\0\58
+* db\revprops\0\59
+* db\revprops\0\6
+* db\revprops\0\60
+* db\revprops\0\61
+* db\revprops\0\62
+* db\revprops\0\63
+* db\revprops\0\64
+* db\revprops\0\65
+* db\revprops\0\66
+* db\revprops\0\67
+* db\revprops\0\68
+* db\revprops\0\69
+* db\revprops\0\7
+* db\revprops\0\70
+* db\revprops\0\71
+* db\revprops\0\72
+* db\revprops\0\73
+* db\revprops\0\74
+* db\revprops\0\75
+* db\revprops\0\76
+* db\revprops\0\77
+* db\revprops\0\78
+* db\revprops\0\79
+* db\revprops\0\8
+* db\revprops\0\80
+* db\revprops\0\81
+* db\revprops\0\82
+* db\revprops\0\83
+* db\revprops\0\84
+* db\revprops\0\85
+* db\revprops\0\86
+* db\revprops\0\87
+* db\revprops\0\88
+* db\revprops\0\89
+* db\revprops\0\9
+* db\revprops\0\90
+* db\revprops\0\91
+* db\revprops\0\92
+* db\revprops\0\93
+* db\revprops\0\94
+* db\revprops\0\95
+* db\revprops\0\96
+* db\revprops\0\97
+* db\revprops\0\98
+* db\revprops\0\99
+* db\revs\
+* db\revs\0\
+* db\revs\0\0
+* db\revs\0\1
+* db\revs\0\10
+* db\revs\0\100
+* db\revs\0\101
+* db\revs\0\102
+* db\revs\0\103
+* db\revs\0\104
+* db\revs\0\105
+* db\revs\0\106
+* db\revs\0\107
+* db\revs\0\108
+* db\revs\0\109
+* db\revs\0\11
+* db\revs\0\110
+* db\revs\0\111
+* db\revs\0\112
+* db\revs\0\113
+* db\revs\0\114
+* db\revs\0\115
+* db\revs\0\116
+* db\revs\0\117
+* db\revs\0\118
+* db\revs\0\119
+* db\revs\0\12
+* db\revs\0\120
+* db\revs\0\121
+* db\revs\0\122
+* db\revs\0\123
+* db\revs\0\124
+* db\revs\0\13
+* db\revs\0\14
+* db\revs\0\15
+* db\revs\0\16
+* db\revs\0\17
+* db\revs\0\18
+* db\revs\0\19
+* db\revs\0\2
+* db\revs\0\20
+* db\revs\0\21
+* db\revs\0\22
+* db\revs\0\23
+* db\revs\0\24
+* db\revs\0\25
+* db\revs\0\26
+* db\revs\0\27
+* db\revs\0\28
+* db\revs\0\29
+* db\revs\0\3
+* db\revs\0\30
+* db\revs\0\31
+* db\revs\0\32
+* db\revs\0\33
+* db\revs\0\34
+* db\revs\0\35
+* db\revs\0\36
+* db\revs\0\37
+* db\revs\0\38
+* db\revs\0\39
+* db\revs\0\4
+* db\revs\0\40
+* db\revs\0\41
+* db\revs\0\42
+* db\revs\0\43
+* db\revs\0\44
+* db\revs\0\45
+* db\revs\0\46
+* db\revs\0\47
+* db\revs\0\48
+* db\revs\0\49
+* db\revs\0\5
+* db\revs\0\50
+* db\revs\0\51
+* db\revs\0\52
+* db\revs\0\53
+* db\revs\0\54
+* db\revs\0\55
+* db\revs\0\56
+* db\revs\0\57
+* db\revs\0\58
+* db\revs\0\59
+* db\revs\0\6
+* db\revs\0\60
+* db\revs\0\61
+* db\revs\0\62
+* db\revs\0\63
+* db\revs\0\64
+* db\revs\0\65
+* db\revs\0\66
+* db\revs\0\67
+* db\revs\0\68
+* db\revs\0\69
+* db\revs\0\7
+* db\revs\0\70
+* db\revs\0\71
+* db\revs\0\72
+* db\revs\0\73
+* db\revs\0\74
+* db\revs\0\75
+* db\revs\0\76
+* db\revs\0\77
+* db\revs\0\78
+* db\revs\0\79
+* db\revs\0\8
+* db\revs\0\80
+* db\revs\0\81
+* db\revs\0\82
+* db\revs\0\83
+* db\revs\0\84
+* db\revs\0\85
+* db\revs\0\86
+* db\revs\0\87
+* db\revs\0\88
+* db\revs\0\89
+* db\revs\0\9
+* db\revs\0\90
+* db\revs\0\91
+* db\revs\0\92
+* db\revs\0\93
+* db\revs\0\94
+* db\revs\0\95
+* db\revs\0\96
+* db\revs\0\97
+* db\revs\0\98
+* db\revs\0\99
+* db\txn-current
+* db\txn-current-lock
+* db\uuid
+* db\write-lock
+* format
+* hooks\
+* hooks\post-commit.tmpl
+* hooks\post-lock.tmpl
+* hooks\post-revprop-change.tmpl
+* hooks\post-unlock.tmpl
+* hooks\pre-commit.tmpl
+* hooks\pre-lock.tmpl
+* hooks\pre-revprop-change.tmpl
+* hooks\pre-unlock.tmpl
+* hooks\start-commit.tmpl
+* ic_launcher-web.png
+* locks\
+* locks\db-logs.lock
+* locks\db.lock
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\xUtils-2.6.14.jar => app\libs\xUtils-2.6.14.jar
+* libs\YoumiSdk_v5.00_2015-01-08.jar => app\libs\YoumiSdk_v5.00_2015-01-08.jar
+* lint.xml => app\lint.xml
+* proguard-android.txt => app\proguard-android.txt
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\android\content\pm\IPackageDataObserver.aidl => app\src\main\aidl\android\content\pm\IPackageDataObserver.aidl
+* src\android\content\pm\IPackageStatsObserver.aidl => app\src\main\aidl\android\content\pm\IPackageStatsObserver.aidl
+* src\android\content\pm\PackageStats.aidl => app\src\main\aidl\android\content\pm\PackageStats.aidl
+* src\android\telephony\NeighboringCellInfo.aidl => app\src\main\aidl\android\telephony\NeighboringCellInfo.aidl
+* src\com\android\internal\telephony\ITelephony.aidl => app\src\main\aidl\com\android\internal\telephony\ITelephony.aidl
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

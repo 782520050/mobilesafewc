@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\ZhiKao\mobilesafewc\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="ba337d602a05fa5214ddbc647de9665f29c8fcd7">
+        <dex dex="F:\ZhiKao\mobilesafewc\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bf07dd52a076c60566bcf122482a51878c85069e\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\ZhiKao\mobilesafewc\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b\classes.dex" />
+    </item>
+    <item
+        jar="F:\ZhiKao\mobilesafewc\app\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="F:\ZhiKao\mobilesafewc\app\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_3f385ecd7b285c7dcd83cbdea73944d5f3bb87cb\classes.dex" />
+    </item>
+    <item
+        jar="F:\ZhiKao\mobilesafewc\app\libs\YoumiSdk_v5.00_2015-01-08.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="9a82405de8ad664118532d59f84e74fa574ffd40">
+        <dex dex="F:\ZhiKao\mobilesafewc\app\build\intermediates\transforms\dex\debug\folders\1000\2\YoumiSdk_v5.00_2015-01-08_567a475b6ea8fcefa2b7d61fe5be8db649d5767e\classes.dex" />
+    </item>
+    <item
+        jar="F:\ZhiKao\mobilesafewc\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="b758716d117f527ac34ab3bcdd8abbb3f3d317da">
+        <dex dex="F:\ZhiKao\mobilesafewc\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7eb663e5727a21ed1303b6c45b03a4eee3504de5\classes.dex" />
+    </item>
+
+</items>

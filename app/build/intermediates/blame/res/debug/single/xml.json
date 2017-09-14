@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\xml\\device_admin_sample.xml"
+    },
+    {
+        "merged": "F:\\ZhiKao\\mobilesafewc\\app\\build\\intermediates\\res\\merged\\debug\\xml\\process_widget_provider.xml",
+        "source": "F:\\ZhiKao\\mobilesafewc\\app\\src\\main\\res\\xml\\process_widget_provider.xml"
+    }
+]

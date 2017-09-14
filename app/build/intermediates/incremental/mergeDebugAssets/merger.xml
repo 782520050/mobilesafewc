@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\ZhiKao\mobilesafewc\app\src\main\assets"><file name="address.db" path="F:\ZhiKao\mobilesafewc\app\src\main\assets\address.db"/><file name="antivirus.db" path="F:\ZhiKao\mobilesafewc\app\src\main\assets\antivirus.db"/></source><source path="F:\ZhiKao\mobilesafewc\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\ZhiKao\mobilesafewc\app\src\debug\assets"/></dataSet></merger>
